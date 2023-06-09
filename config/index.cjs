@@ -15,6 +15,10 @@ const USER_CONFIG = {
 
   PROVINCE: '四川',
   CITY: '成都',
+  
+  TIAN_API: {
+    key: 'c264885ff8db2998f8ae15a2083915db'
+  },
 
   USERS: [
     {
